@@ -1,6 +1,6 @@
 # BSxFLAT Beta 1.0
 
-Responsive Bootstrap Manager Theme for evo-custom
+Responsive Bootstrap Manager Theme for MODX Evo Custom v1.1b-d7.1
 based on MODxFlat Manager Theme
 
 ![BSxFlat login](https://raw.githubusercontent.com/Nicola1971/BSxFLAT/master/login-screenshot.jpg)
