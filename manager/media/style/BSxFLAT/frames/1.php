@@ -204,7 +204,7 @@ $modx->invokeEvent('OnManagerPreFrameLoader',array('action'=>$action));
 
 
     <div class="row">
-    <div class="container-fluid no-padding no-margin" id="divMenu">
+    <div class="container-fluid  no-margin" id="divMenu">
    <div id="tocText"<?php echo $modx_textdir ? ' class="tocTextRTL"' : '' ?>></div>
 
 
