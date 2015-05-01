@@ -3,6 +3,8 @@
 Responsive Bootstrap Manager Theme for MODX Evo Custom v1.1b-d7.1
 based on MODxFlat Manager Theme
 
+https://www.youtube.com/watch?v=Ss0og90n3XM
+
 
 ## Beta 1.0 Features
 
